@@ -1,2 +1,2 @@
-# jillianfusco.github.io
+# jillianfusco.portfolio
 Jillian Fusco's Web Portfolio
